@@ -1,6 +1,6 @@
 /*
     FileToByteArray - Конвертер любого файла в массив байт на C++
-    Copyright (C) 2024 Zenoyui
+    Copyright (C) 2025 Zenoyui
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
