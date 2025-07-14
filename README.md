@@ -1,5 +1,7 @@
 # FileToByteArray
 
+![Demo](demo.gif)
+
 A simple C++ WinAPI utility that converts any file to a C-style byte array (`unsigned char array`) for easy embedding in your source code.
 
 ## Features
